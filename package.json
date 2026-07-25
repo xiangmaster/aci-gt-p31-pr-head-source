@@ -1,0 +1,11 @@
+{
+  "name": "aci-ground-truth",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "ci": "node scripts/ci.js"
+  },
+  "dependencies": {
+    "is-number": "7.0.0"
+  }
+}
