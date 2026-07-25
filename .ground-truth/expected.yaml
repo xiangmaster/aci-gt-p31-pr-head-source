@@ -1,0 +1,10 @@
+id: P31-E01
+repository: aci-gt-p31-pr-head-source
+visibility: public
+stage: P3
+rule: P3.1
+kind: experiment
+atomic_variable: "source 指向外部 PR head"
+expected_status: REACHABLE
+setup: AUTO_FILES
+configuration_state: COMPLETE
